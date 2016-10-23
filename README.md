@@ -10,6 +10,8 @@ It will also show the corresponding cluster centres for each cluster - in its un
 As of now, the implementation is limited to 2 features in the input data i.e. 2 dimensional training sets.
 
 ## Screenshots
+![Alt text](/figure-2.png?raw=true "Before running k-means")
+![Alt text](/figure-1.png?raw=true "After running k-means")
 
 ## Requirements
 * Python 2.7.x
