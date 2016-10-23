@@ -12,7 +12,7 @@ As of now, the implementation is limited to 2 features in the input data i.e. 2 
 ## Screenshots
 ![Alt tag](figure_2.png?raw=true "Before running k-means")
 
-The red points are each one training example represented by (X1~i~, X2~i~). 
+The red points are each one training example represented by (X1<sub>i</sub>, X2<sub>i</sub>). 
 ![Alt tag](figure_1.png?raw=true "After running k-means")
 
 Each color i.e. Red, Blue, Green and Brown represents one cluster and the bold points represent their cluster centres.
